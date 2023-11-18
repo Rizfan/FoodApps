@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FoodApps</string>
+    <string name="search_makanan">Cari Makanan</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="required_point">Rp %d</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp %d</string>
+    <string name="total_order">Total pesanan : Rp %d</string>
+    <string name="back">Back</string>
+    <string name="share_message">Hi, Aku ingin membeli makanan %1$d dengan total harga Rp %2$d. Apakah kamu ingin juga?</string>
+
+</resources>
